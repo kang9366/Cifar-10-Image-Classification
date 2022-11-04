@@ -3,6 +3,7 @@
 ## Dataset Description
 
 CIFAR-10 dataset은 32x32픽셀의 60000개 컬러이미지가 포함되어있으며, 각 이미지는 10개의 클래스로 라벨링이 되어있다.
+(Training 50000개, Test 10000개)
 
 ![production-media.paperswithcode.com/datasets/4f...](https://production-media.paperswithcode.com/datasets/4fdf2b82-2bc3-4f97-ba51-400322b228b1.png)
 <br><br><br><br><br>
